@@ -2,7 +2,7 @@
 
 **Embedded Systems - Signal Processing - FPGA - Computer Architecture**
 
-## 'About Me'
+## `About Me`
 Sophomore @ KU studying EE & CoE
 
 Current Projects:
