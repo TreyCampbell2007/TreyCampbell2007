@@ -2,18 +2,22 @@
 
 **Embedded Systems - Signal Processing - FPGA - Computer Architecture**
 
-```text
-$ whoami
+## 'About Me'
 Sophomore @ KU studying EE & CoE
 
-$ current
-Projects:
+Current Projects:
 - Analog & Digital Guitar Pedals (IEEE Project)
 - Drone - Embedded and Control Systems
 - Python Software Tuner
-```
+
+Involvement:
+- Association for Computing Machinery - **Community Chair**
+- Institute for Electrical and Electronics Engineers
+- KJHK Tech Team
+- SELF Engineering Fellowship
+
 ---
-## `~/languages`
+## `languages`
 
 <div align="center">
 
@@ -25,7 +29,7 @@ Projects:
 
 ---
 
-## `~/commits`
+## `commits`
 
 <div align="center">
 
@@ -37,7 +41,7 @@ Projects:
 
 ---
 
-## `~/profile`
+## `profile`
 
 <div align="center">
 
