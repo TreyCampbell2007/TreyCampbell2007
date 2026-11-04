@@ -1,16 +1,51 @@
-## Hi there 👋
+# `Trey Campbell`
 
-<!--
-**TreyCampbell2007/TreyCampbell2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems, Signal Processing, FPGA**
 
-Here are some ideas to get you started:
+```text
+$ whoami
+Sophomore @ KU studying EE & CoE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ current
+Projects:
+- Analog & Digital Guitar Pedals (IEEE Project)
+- Drone - Embedded and Control Systems
+- Python Software Tuner
+```
+---
+## `~/languages`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TreyCampbell2007" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TreyCampbell2007" />
+
+</div>
+
+---
+
+## `~/commits`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TreyCampbell2007" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TreyCampbell2007&utcOffset=-5" />
+
+</div>
+
+---
+
+## `~/profile`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TreyCampbell2007" />
+
+</div>
+
+---
+
+<div align="center">
+</div>
