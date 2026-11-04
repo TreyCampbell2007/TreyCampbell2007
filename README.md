@@ -1,6 +1,6 @@
 # `Trey Campbell`
 
-**Embedded Systems, Signal Processing, FPGA**
+**Embedded Systems - Signal Processing - FPGA - Computer Architecture**
 
 ```text
 $ whoami
